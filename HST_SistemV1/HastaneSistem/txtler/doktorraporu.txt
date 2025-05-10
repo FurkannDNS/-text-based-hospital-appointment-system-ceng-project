@@ -1,0 +1,12 @@
+Hasta TC: 31
+Hastalık: dfgs
+Tahlil Yöntemleri: dfsg
+Kullanması Gereken İlaç: 123
+Doktor ID: 111
+--------------------------------------
+Hasta TC: 125
+Hastalık: Kalp Krizi
+Tahlil Yöntemleri: Mr
+Kullanması Gereken İlaç: Müşaade
+Doktor ID: 111
+--------------------------------------

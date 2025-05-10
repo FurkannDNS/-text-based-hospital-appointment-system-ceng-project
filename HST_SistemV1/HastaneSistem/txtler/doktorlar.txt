@@ -1,0 +1,7 @@
+1,Uzm. Dr.Barış-Akarsu,Göğüs Hastalıkları,09:00-12:00
+2,Doç. Dr.Sezen-Aksu,Genel Cerrahi,11:00-16:00
+56,Prof. Dr.İpek-Elgun,Radyoloji,08:00-12:00
+34,Asistan Doktor.Ali-Veli,Tıbbi Biyokimya,11-12
+159,Prof. Dr.AAA-BB,Beyin ve Sinir Cerrahisi,9-14
+456,Uzm. Dr.Merve-Çolak,Acil Tıp,08:00-11:00
+156,Uzm. Dr.ali-mamo,Anesteziyoloji ve Reanimasyon,11

@@ -1,0 +1,5 @@
+AD,SOYAD,TC,ŞİFRE,GEÇMİŞ
+Ekrem,İmamoglu,12345678910,ekremm13,dfgs|Kalp Krizi
+Mert,Koçak,15935712344,merdo12,Bilinmiyor
+Can,Buray,12345678930,kalem2,Bilinmiyor
+enes,ders,12345678960,bursam16,Bilinmiyor
